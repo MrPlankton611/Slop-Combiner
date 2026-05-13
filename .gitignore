@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+*.lnk
+
+# Videos & Media (local files, keep source control clean)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.flv
+*.wmv
+*.m4v
+
+# Audio files
+*.mp3
+*.wav
+*.aac
+*.flac
+*.m4a
+audio.mp3
+
+# Project-specific files
+videos/temp/
+videos/output/
+minecraft_bg.mp4
+
+# Temp & Cache
+*.tmp
+*.cache
+*.log
+.cache/
+temp/
+tmp/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Prisma (from ai-video-captions)
+prisma/dev.db
+prisma/dev.db-journal
