@@ -1,4 +1,4 @@
-# Slop Combiner
+# Slop Combiner (AI Generated)
 
 A Python script that automatically generates short-form videos with AI voiceovers and animated captions.
 
